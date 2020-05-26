@@ -12,7 +12,10 @@ My objective of making this application is to introduce myself to the core progr
 
 I´m going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
+<p align="center">
+  <img  height="420" src="https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif">
+</p>
 
 ## What I will learn
 
