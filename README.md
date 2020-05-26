@@ -14,7 +14,7 @@ I´m going to make a Las Vegas dice app. You can make the die roll at the press 
 
 
 <p align="center">
-  <img  height="420" src="https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif">
+  <img  height="420" src="https://raw.githubusercontent.com/erikmaide/test/master/dicee.gif">
 </p>
 
 ## What I will learn
@@ -30,4 +30,4 @@ I´m going to make a Las Vegas dice app. You can make the die roll at the press 
 - Code and use gesture controls.
 
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![End Banner](https://raw.githubusercontent.com/erikmaide/test/master/footer.png)
